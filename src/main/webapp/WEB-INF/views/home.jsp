@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<h1>Strona JSP z kontrolera</h1>
+<h1>Witaj w widoku</h1>
 
 </body>
 </html>
